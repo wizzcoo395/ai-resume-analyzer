@@ -34,3 +34,8 @@ pip install -r requirements.txt
 Run the app:
 
 python -m streamlit run app.py
+
+## Application Screenshot
+
+![Resume Analyzer](screenshot.png)
+
